@@ -1,0 +1,2 @@
+export const Register_PROGRESS = "Register_PROGRESS"
+export const FORGET_PASSWORD_PROGRESS ="FORGET_PASSWORD_PROGRESS"
